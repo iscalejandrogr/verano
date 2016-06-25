@@ -2,7 +2,7 @@
 
 $usario="u253135181_alex";
 $passwd="drag0n";
-$servidor="mysql.hostinger.mx";
+$servidor="localhost";
 $BD="u253135181_pc";
 
 /*$usario="root";
